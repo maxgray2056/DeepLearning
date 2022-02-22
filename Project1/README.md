@@ -38,4 +38,4 @@ from PIL import Image
 ## Contributing
 
 This project is contributed by: 
-<a href="hao9@g.clemson.edu"></a>
+<a href="hao9@g.clemson.edu">hao9@clemson.edu</a>
