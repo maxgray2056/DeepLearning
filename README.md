@@ -3,7 +3,6 @@ These projects are for CPSC8430, Clemson University
 
 ## Table of Contents
 - [Projects](#projects)
-
 - [Background](#background)
 - [Install](#install)
 - [Packages](#packages)
@@ -11,7 +10,6 @@ These projects are for CPSC8430, Clemson University
 
 ## Projects
 - [Project_1](project1/)
-
 
 ## Background
 
