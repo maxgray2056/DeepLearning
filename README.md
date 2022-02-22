@@ -9,7 +9,7 @@ These projects are for CPSC8430, Clemson University
 - [Contributing](#contributing)
 
 ## Projects
-- [Project_1](project1/)
+- [Project_1](Project1/)
 
 ## Background
 
