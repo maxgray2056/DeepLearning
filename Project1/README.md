@@ -17,6 +17,7 @@ This project is for CPSC8430, HW1, Clemson University
 This project uses Python 3 based on Jupyter Notebook
 
 This project is based on Pytorch 1.7.0 & cudnn 1.10
+Official website: <a href="https://pytorch.org/get-started/previous-versions/">Previous PyTorch Versions</a>
 ```
 pip install -f https://download.pytorch.org/whl/cu110/torch_stable.html torch==1.7.0+cu110 torchvision==0.8.0 --user
 ```
